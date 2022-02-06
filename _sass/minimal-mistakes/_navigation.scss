@@ -505,19 +505,19 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: transparent;
-  background-color: $background-color;
+  color: $gray;
+  background-color: transparent;
   // border: 1px solid $border-color;
   // border-radius: $border-radius;
-  -webkit-box-shadow: $box-shadow;
-  box-shadow: $box-shadow;
+  // -webkit-box-shadow: $box-shadow;
+  // box-shadow: $box-shadow;
 
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
-    border-top-left-radius: $border-radius;
-    border-top-right-radius: $border-radius;
+    background: transparent;
+    // border-top-left-radius: $border-radius;
+    // border-top-right-radius: $border-radius;
   }
 
   // Scrollspy marks toc items as .active when they are in focus
