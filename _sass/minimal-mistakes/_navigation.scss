@@ -526,6 +526,12 @@
   }
 }
 
+@include breakpoint(max-width $large - 1px) {
+  .toc {
+    display: none;
+  }
+}
+
 .toc__menu {
   margin: 0;
   padding: 0;
