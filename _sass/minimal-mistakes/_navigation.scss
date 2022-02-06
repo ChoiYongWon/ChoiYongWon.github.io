@@ -505,10 +505,10 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  color: transparent;
   background-color: $background-color;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
+  // border: 1px solid $border-color;
+  // border-radius: $border-radius;
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
 
@@ -543,7 +543,7 @@
     color: $muted-text-color;
     font-weight: bold;
     line-height: 1.5;
-    border-bottom: 1px solid $border-color;
+    // border-bottom: 1px solid $border-color;
 
     &:hover {
       color: $text-color;
