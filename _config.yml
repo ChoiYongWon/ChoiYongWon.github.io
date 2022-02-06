@@ -288,6 +288,6 @@ defaults:
       comments: # true
       share: false
       related: true
-      show-date: true
+      show_date: true
 
-# date-format: "%Y-%m-%d"
+date-format: "%Y-%m-%d"
