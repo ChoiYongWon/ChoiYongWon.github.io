@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  # name             : "최용원"
+  name             : "최용원"
   # avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  # bio              : "의식의 흐름대로 공부하는 개발자"
-  # location         : "대구, 수성구"
+  bio              : "의식의 흐름대로 공부하는 개발자"
+  location         : "대구, 수성구"
   # email            : "yongwon4130@gmail.com"
   # links:
     # - label: "Email"
