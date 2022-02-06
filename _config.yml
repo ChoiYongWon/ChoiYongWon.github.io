@@ -115,7 +115,7 @@ author:
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Donate"
-      icon: "fab fa-fw fa-donate"
+      icon: "fas fa-donate"
       url: "https://toss.me/cyw4687"
     # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
