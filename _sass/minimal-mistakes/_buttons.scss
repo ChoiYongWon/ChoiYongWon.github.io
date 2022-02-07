@@ -53,7 +53,7 @@
       }
 
       &:visited {
-        @include yiq-contrasted($color);
+        // @include yiq-contrasted($color);
       }
 
       &:hover {
