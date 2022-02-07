@@ -540,9 +540,9 @@
   list-style: none;
   font-size: $type-size-6;
 
-  @include breakpoint($large) {
-    font-size: $type-size-7;
-  }
+  // @include breakpoint($large) {
+  //   font-size: $type-size-7;
+  // }
 
   a {
     display: block;
