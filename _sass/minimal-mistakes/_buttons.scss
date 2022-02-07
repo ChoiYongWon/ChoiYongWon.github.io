@@ -18,6 +18,7 @@
   text-decoration: none;
   border-width: 0;
   border-radius: $border-radius;
+  outline: none;
   cursor: pointer;
 
   .icon {
@@ -56,7 +57,7 @@
       }
 
       &:hover {
-        @include yiq-contrasted(mix(#000, $color, 20%));
+        // @include yiq-contrasted(mix(#000, $color, 20%));
       }
     }
   }
