@@ -4,8 +4,8 @@ title: "비트코인의 원리와 구조 (1) 유한체"
 categories: BlockChain
 toc: true
 toc_sticky: true
-date: 2022-02-09 12:00:00 
-lastmod : 2022-02-09 12:00:00
+date: 2022-02-08 12:00:00 
+lastmod : 2022-02-08 12:00:00
 sitemap :
   changefreq : daily
   priority : 1.0
