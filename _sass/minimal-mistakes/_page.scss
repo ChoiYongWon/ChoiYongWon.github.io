@@ -113,10 +113,10 @@ body {
   p,
   li,
   dl {
-    font-size: 0.8em;
+    font-size: 0.875em;
 
     @include breakpoint($large) {
-      font-size: 0.875em;
+      font-size: 0.8em;
     }
   }
 
