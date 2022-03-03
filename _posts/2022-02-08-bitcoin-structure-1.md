@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "비트코인의 원리와 구조 (1) 유한체"
+title: "비트코인의 원리와 구조 (1) 유한체에 대하여"
 categories: BlockChain
 toc: true
 toc_sticky: true
